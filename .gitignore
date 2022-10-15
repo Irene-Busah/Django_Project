@@ -128,3 +128,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# secret key: Settings.py
+# django-insecure-%htt4valvzd%kgy3tz%4^ixi*dzi#ow17)9&$e@ux)e#f92c%0
